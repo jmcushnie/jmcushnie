@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmcushnie
 - 👀 Currently working on my personal portfolio!
-- 🌱 Learning JavaScript and Node.js
+- 🌱 Learning JavaScript
 
 
 <!---
