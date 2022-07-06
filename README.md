@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Node.js and React**
 
-- 👨‍💻 All of my projects are available at [jesscushnie.com](jesscushnie.com)
+- 👨‍💻 All of my projects are available at [https://www.jesscushnie.com/](jesscushnie.com)
 
 - ⚡ Fun fact **I hate fun facts**
 
