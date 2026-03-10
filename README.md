@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jess</h1>
 <h3 align="center">An enthusiastic frontend developer from New Zealand</h3>
 
-- 🔭 I’m currently working on Open Polytechnic Web Design and Development Diploma
+- 🔭 I’m currently working on Bachelors of Information Technology
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Node.js and React**
 
